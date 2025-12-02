@@ -18,12 +18,12 @@ Integrated Control System
 Technologies Used
 
 - Elegoo Smart Car Kit
-- Arduino Uno / Nano (2 boards)
-- DC Motors with motor driver shields
+- Arduino (2 boards)
+- DC Motors
 - Ultrasonic sensors
 - VS Code for code management
 - Arduino IDE for programming microcontrollers
-- Teachable Machine dataset (for sensor input processing)
+- Teachable Machine dataset for camera input
 
 # Challenges Encountered
 
@@ -31,21 +31,21 @@ Subsystem Integration
 - Combining multiple subsystems (the car, sensors, and garage door) into a single functioning system was challenging due to timing and communication between components.
 
 Arduino Coding Issues
-- Finding the correct motor speeds and writing obstacle avoidance logic required extensive testing and calibration.
+- Finding the correct motor speeds and writing obstacle avoidance logic required ALOT of testing and calibration.
 
 VS Code and Arduino IDE Integration
-- Ensuring that code could run properly across both environments required troubleshooting and configuring proper libraries.
-
+- Ensuring that code could run properly across both environments.
+  
 Mechanical Design Challenges
-- Designing the garage and door to work reliably with the car required iterative adjustments and testing.
+- Designing the garage and door to work reliably with the car.
 
 # My Contributions
 
 - Focused primarily on the smart car subsystem, ensuring it could move autonomously and avoid obstacles effectively.
 - Programmed the Arduino boards for obstacle detection and motor control.
-- Assisted with integrating VS Code and Arduino IDE workflows so that the code ran smoothly across both environments.
+- Assisted with integrating VSCode and Arduino IDE workflows so that the code ran smoothly across both environments.
 - Contributed to the design and assembly of the garage and garage door system, helping make the full system functional and reliable.
-- Collaborated on troubleshooting issues with sensors, motors, and timing to ensure the entire system operated cohesively.
+- Collaborated on troubleshooting issues with sensors, motors, and timing to ensure the entire system operated correctly.
 
 # Future Improvements
 
