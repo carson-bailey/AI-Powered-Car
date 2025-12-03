@@ -39,6 +39,9 @@ VS Code and Arduino IDE Integration
 Mechanical Design Challenges
 - Designing the garage and door to work reliably with the car.
 
+Smart Robot
+- getting the car to run in at straight line and getting the sensor to properly adjust itself to the proper 
+
 # My Contributions
 
 - Focused primarily on the smart car subsystem, ensuring it could move autonomously and avoid obstacles effectively.
